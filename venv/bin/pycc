@@ -1,0 +1,3 @@
+#!/Users/austinteshuba/WesternClassArchive/Coursera-AIEngineering/DBSCAN/venv/bin/python
+from numba.pycc import main
+main()

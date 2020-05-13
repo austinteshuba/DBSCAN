@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: clifford
+Version: 1.2.0
+Summary: Numerical Geometric Algebra Module
+Home-page: http://clifford.readthedocs.io
+Author: Robert Kern
+Author-email: alexarsenovic@gmail.com
+License: bsd
+Project-URL: Bug Tracker, https://github.com/pygae/clifford/issues
+Project-URL: Source Code, https://github.com/pygae/clifford
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.5
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: numba (==0.45.1)
+Requires-Dist: h5py
+Requires-Dist: sparse
+
+
+A numerical geometric algebra module for python. BSD License.
+
+
